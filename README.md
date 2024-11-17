@@ -1,0 +1,2 @@
+# nasz_wykresik
+AD
